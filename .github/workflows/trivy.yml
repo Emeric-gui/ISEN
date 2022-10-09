@@ -1,4 +1,4 @@
-name: trivy_analysys
+name: Security check - Trivy
 
 on:
   workflow_dispatch:
